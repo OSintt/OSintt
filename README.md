@@ -6,4 +6,4 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OSintt&exclude_repo=eslint-config&theme=dracula"/>
   </p>
 </center>
-<h2 align="center">O $ i n t#0800</h2>
+<h2 align="center">oshint#0800</h2>
