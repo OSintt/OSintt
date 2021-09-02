@@ -79,4 +79,4 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>
   </a>
 </p>
-<h2 align="center">O$int#0800</h2>
+<h2 align="center">osintaxis.gq</h2>
