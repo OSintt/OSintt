@@ -1,4 +1,4 @@
-<img width="200" height="200" align="left" src="https://i.pinimg.com/236x/9e/f6/10/9ef610ef05e5254dcff3cb2b292a82c7.jpg">
+<img width="200" height="200" align="left" src="https://cdn.discordapp.com/attachments/1069105156253290578/1069870339397517412/osintpyxelpng.png">
 
 
 <h1>OSint 🍩</h1>
