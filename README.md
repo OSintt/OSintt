@@ -8,6 +8,9 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/>
   </a> 
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="typescript" width="25" height="25"/> 
+  </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25"/>
   </a> 
@@ -23,10 +26,7 @@
   <a href="https://www.rust-lang.org/learn" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="25" height="25"/> 
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="typescript" width="25" height="25"/> 
-  </a>
-    <a href="https://es.reactjs.org/" target="_blank">
+  <a href="https://es.reactjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="25" height="25"/>
   </a>
   <a href="https://vuejs.org/" target="_blank">
@@ -50,8 +50,11 @@
   <a href="https://nextjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="25" height="25"/>
   </a>
-    <a href="https://nuxtjs.org/" target="_blank">
+  <a href="https://nuxtjs.org/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" alt="nuxtjs" width="25" height="25"/>
+  </a>
+  <a href="[https://nuxtjs.org/](https://jestjs.io/)" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="nuxtjs" width="25" height="25"/>
   </a>
   <a href="https://sass-lang.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="25" height="25"/>
