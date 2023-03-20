@@ -53,7 +53,7 @@
   <a href="https://nuxtjs.org/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" alt="nuxtjs" width="25" height="25"/>
   </a>
-  <a href="[https://nuxtjs.org/](https://jestjs.io/)" target="_blank">
+  <a href="https://jestjs.io/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="nuxtjs" width="25" height="25"/>
   </a>
   <a href="https://sass-lang.com/" target="_blank">
