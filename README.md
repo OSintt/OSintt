@@ -59,7 +59,7 @@
   <a href="https://sass-lang.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="25" height="25"/>
   </a><br><br><br>
-  <code>currently learning go 🐹</code>
+  <code>studying neurosciences 🧠</code>
   <img align="right" src="https://komarev.com/ghpvc/?username=OSintt"/>
   
 
