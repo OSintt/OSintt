@@ -67,3 +67,9 @@
 Hello 👋, my name's OSint . I'm a Fullstack Web Developer 💻 with some experience in Robothics 🤖, Crypto 🪙 and AI 🧠 <br>
 My main language is JavaScript 🟡 but I can code in Python 🐍, PHP 🔵 and Rust 🦀<br>
 I'm an Open-Source lover 🗽, you can find some of my projects <a href="https://github.com/OSintt?tab=repositories" target="_blank">here</a>
+<h1>Donations 🐼</h1>
+If you like my work or just want to help a humble young dev these are my crypto addys 🐤!<br>
+💰 <b>BTC:</b> bc1qz2yakyhd0stejqe5s0z8zd9dqldv6p8mxzk89j<br>
+🚀 <b>LTC:</b> LUTXTbJjA7oiGvEgyVHMgFcu2pnbafUFgU<br>
+💎 <b>ETH:</b> 0xace6f843a555B01b93c27dA6326E78230a7ECC0c<br>
+🐶 <b>Doge:</b> D8LdAoJUrRCyYcVjqw3f9dUEeqsqvdhwP4<br>
