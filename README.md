@@ -2,7 +2,7 @@
 
 
 <h1>OSint 🍩</h1>
-<i>💻 Fullstack Web Developer</i><br>
+<i>💻 Fullstack Developer</i><br>
 <i>💭 Phylosophy Lover</i><br>
 <i>📖 History Passionate</i><br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
@@ -64,7 +64,7 @@
   
 
 <h1>About me 🍢</h1>
-Hello 👋, my name's OSint . I'm a Fullstack Web Developer 💻 with some experience in Robothics 🤖, Crypto 🪙 and AI 🧠 <br>
+Hey 👋, my name's OSint . I'm a Fullstack Dev 💻 with some experience in Robotics 🤖, Crypto 🪙, Cloud ☁️, Virtualization 🖥️ and AI 🧠 <br>
 My main language is JavaScript 🟡 but I can code in Python 🐍, PHP 🔵 and Rust 🦀<br>
 I'm an Open-Source lover 🗽, you can find some of my projects <a href="https://github.com/OSintt?tab=repositories" target="_blank">here</a>
 <h1>Donations 🐼</h1>
@@ -73,3 +73,5 @@ If you like my work or just want to help a humble young dev these are my crypto 
 🚀 <b>LTC:</b> LUTXTbJjA7oiGvEgyVHMgFcu2pnbafUFgU<br>
 💎 <b>ETH:</b> 0xace6f843a555B01b93c27dA6326E78230a7ECC0c<br>
 🐶 <b>Doge:</b> D8LdAoJUrRCyYcVjqw3f9dUEeqsqvdhwP4<br>
+
+Feel free to get in touch! 🐼
