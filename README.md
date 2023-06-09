@@ -59,12 +59,12 @@
   <a href="https://sass-lang.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="25" height="25"/>
   </a><br><br><br>
-  <code>studying neurosciences 🧠</code>
+  <code>studying neuroscience 🧠</code>
   <img align="right" src="https://komarev.com/ghpvc/?username=OSintt"/>
   
 
 <h1>About me 🍢</h1>
-Hey 👋, my name's OSint . I'm a Fullstack Dev 💻 with some experience in Robotics 🤖, Crypto 🪙, Cloud ☁️, Virtualization 🖥️ and AI 🧠 <br>
+Hey 👋, my name's OSint . I'm a CS Student 💻 with some experience in Robotics 🤖, Crypto 🪙, Cloud ☁️, Virtualization 🖥️ and AI 🧠 <br>
 My main language is JavaScript 🟡 but I can code in Python 🐍, PHP 🔵 and Rust 🦀<br>
 I'm an Open-Source lover 🗽, you can find some of my projects <a href="https://github.com/OSintt?tab=repositories" target="_blank">here</a>
 <h1>Donations 🐼</h1>
@@ -72,6 +72,6 @@ If you like my work or just want to help a humble young dev these are my crypto 
 💰 <b>BTC:</b> bc1qz2yakyhd0stejqe5s0z8zd9dqldv6p8mxzk89j<br>
 🚀 <b>LTC:</b> LUTXTbJjA7oiGvEgyVHMgFcu2pnbafUFgU<br>
 💎 <b>ETH:</b> 0xace6f843a555B01b93c27dA6326E78230a7ECC0c<br>
-🐶 <b>Doge:</b> D8LdAoJUrRCyYcVjqw3f9dUEeqsqvdhwP4<br>
+🐶 <b>Doge:</b> D8LdAoJUrRCyYcVjqw3f9dUEeqsqvdhwP4<br><br>
 
-Feel free to get in touch! 🐼
+<b>Feel free to get in touch!</b> 🍒
