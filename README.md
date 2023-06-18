@@ -54,7 +54,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" alt="nuxtjs" width="25" height="25"/>
   </a>
   <a href="https://jestjs.io/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="nuxtjs" width="25" height="25"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="jest" width="25" height="25"/>
   </a>
   <a href="https://sass-lang.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="25" height="25"/>
@@ -67,11 +67,8 @@
 Hey 👋, my name's OSint . I'm a CS Student 💻 with some experience in Robotics 🤖, Crypto 🪙, Cloud ☁️, Virtualization 🖥️ and AI 🧠 <br>
 My main language is JavaScript 🟡 but I can code in Python 🐍, PHP 🔵 and Rust 🦀<br>
 I'm an Open-Source lover 🗽, you can find some of my projects <a href="https://github.com/OSintt?tab=repositories" target="_blank">here</a>
-<h1>Donations 🐼</h1>
-If you like my work or just want to help a humble young dev these are my crypto addys 🐤!<br>
-💰 <b>BTC:</b> bc1qz2yakyhd0stejqe5s0z8zd9dqldv6p8mxzk89j<br>
-🚀 <b>LTC:</b> LUTXTbJjA7oiGvEgyVHMgFcu2pnbafUFgU<br>
-💎 <b>ETH:</b> 0xace6f843a555B01b93c27dA6326E78230a7ECC0c<br>
-🐶 <b>Doge:</b> D8LdAoJUrRCyYcVjqw3f9dUEeqsqvdhwP4<br><br>
+<h1>Social 🐼</h1>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/982390723716476928/animated=true/bg=fff)](https://discord.com/users/982390723716476928)
 
 <b>Feel free to get in touch!</b> 🍒
