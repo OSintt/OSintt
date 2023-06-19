@@ -69,6 +69,6 @@ My main language is JavaScript 🟡 but I can code in Python 🐍, PHP 🔵 and 
 I'm an Open-Source lover 🗽, you can find some of my projects <a href="https://github.com/OSintt?tab=repositories" target="_blank">here</a>
 <h1 align="right">Social 🐼</h1>
 
-<img align="right" display="block" src="https://lanyard.cnrad.dev/api/982390723716476928/animated=true"><br><br><br><br><br><br><br><br><br>
+<img align="right" display="block" src="https://lanyard.cnrad.dev/api/982390723716476928/animated=true"><br><br><br><br><br><br><br><br><br><br>
 <p align="right">Feel free to get in touch!</b> 🍒</p>
 
