@@ -67,8 +67,8 @@
 Hey 👋, my name's OSint . I'm a CS Student 💻 with some experience in Robotics 🤖, Crypto 🪙, Cloud ☁️, Virtualization 🖥️ and AI 🧠 <br>
 My main language is JavaScript 🟡 but I can code in Python 🐍, PHP 🔵 and Rust 🦀<br>
 I'm an Open-Source lover 🗽, you can find some of my projects <a href="https://github.com/OSintt?tab=repositories" target="_blank">here</a>
-<h1>Social 🐼</h1>
+<h1 align="right">Social 🐼</h1>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/982390723716476928/animated=true/bg=fff)](https://discord.com/users/982390723716476928)
+<img align="right" display="block" src="https://lanyard.cnrad.dev/api/982390723716476928/animated=true"><br><br><br><br><br><br><br><br><br>
+<p align="right">Feel free to get in touch!</b> 🍒</p>
 
-<b>Feel free to get in touch!</b> 🍒
