@@ -56,6 +56,9 @@
   <a href="https://jestjs.io/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="jest" width="25" height="25"/>
   </a>
+    <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="25" height="25"/>
+  </a>
   <a href="https://sass-lang.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="25" height="25"/>
   </a><br><br><br>
