@@ -67,7 +67,7 @@
   
 
 <h1>About me 🍢</h1>
-Hey 👋, my name's OSint . I'm a CS Student 💻 with some experience in Robotics 🤖, Crypto 🪙, Cloud ☁️, Virtualization 🖥️ and AI 🧠 <br>
+Hey 👋, my name's OSint . I'm a CS & Neuroscience Major 💻 with some experience in Robotics 🤖, Crypto 🪙, Cloud ☁️, Virtualization 🖥️ and AI 🧠 <br>
 My main language is JavaScript 🟡 but I can code in Python 🐍, PHP 🔵 and Rust 🦀<br>
 I'm an Open-Source lover 🗽, you can find some of my projects <a href="https://github.com/OSintt?tab=repositories" target="_blank">here</a>
 <h1 align="right">Social 🐼</h1>
