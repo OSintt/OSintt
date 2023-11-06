@@ -17,6 +17,9 @@
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="25" height="25"/> 
   </a>
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="25" height="25"/> 
+  </a> 
   <a href="https://www.php.net" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="25" height="25"/> 
   </a> 
