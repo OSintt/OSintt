@@ -65,13 +65,13 @@
   <a href="https://sass-lang.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="25" height="25"/>
   </a><br><br><br>
-  <code>studying neuroscience 🧠</code>
+  <code>studying abstraction 🧠</code>
   <img align="right" src="https://komarev.com/ghpvc/?username=OSintt"/>
   
 
 <h1>About me 🍢</h1>
-Hey 👋, my name's OSint . I'm a CS & Neuroscience Major 💻 with some experience in Robotics 🤖, Crypto 🪙, Cloud ☁️, Virtualization 🖥️ and AI 🧠 <br>
-My main language is JavaScript 🟡 but I can code in Python 🐍, PHP 🔵 and Rust 🦀<br>
+Hey 👋, my name's OSint . I'm a CS & Psychology Major 💻 with some experience in Robotics 🤖, Crypto 🪙, Cloud ☁️, Virtualization 🖥️, and AI 🧠 <br>
+My main language is JavaScript 🟡 but I can code in Python 🐍, PHP 🔵, Java ☕, and Rust 🦀<br>
 I'm an Open-Source lover 🗽, you can find some of my projects <a href="https://github.com/OSintt?tab=repositories" target="_blank">here</a>
 <h1 align="right">Social 🐼</h1>
 
