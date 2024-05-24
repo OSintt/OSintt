@@ -1,10 +1,11 @@
-<img width="200" height="200" align="left" src="https://cdn.discordapp.com/attachments/1069105156253290578/1069870796241117235/osintpyxelpng.png">
 
+<img width="200" height="200" align="left" src="https://cdn.discordapp.com/attachments/1093910426024149123/1243653355784503327/DALL_E_2024-05-24_14.53.17_-_pixel_art_of_aesthetic_grunge_boy_with_brown_and_curly_hair-removebg-preview.png?ex=665241f1&is=6650f071&hm=c7f7fe6ab0f2b98882625b5f19b0e57cf849f1d4d0144aba6f20607e9b2a058e&">
 
-<h1>OSint 🍩</h1>
+### OSint 🍩
+<hr></hr>
 <i>💻 Fullstack Developer</i><br>
 <i>💭 Phylosophy Lover</i><br>
-<i>📖 History Passionate</i><br>
+<i>📖 Psychology Passionate</i><br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/>
   </a> 
@@ -65,7 +66,7 @@
   <a href="https://sass-lang.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="25" height="25"/>
   </a><br><br><br>
-  <code>studying abstraction 🧠</code>
+  <code>studying cognitive psych 🧠</code>
   <img align="right" src="https://komarev.com/ghpvc/?username=OSintt"/>
   
 
