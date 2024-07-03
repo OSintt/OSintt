@@ -1,5 +1,5 @@
 
-<img width="200" height="200" align="left" src="https://cdn.discordapp.com/attachments/1093910426024149123/1243653355784503327/DALL_E_2024-05-24_14.53.17_-_pixel_art_of_aesthetic_grunge_boy_with_brown_and_curly_hair-removebg-preview.png?ex=665241f1&is=6650f071&hm=c7f7fe6ab0f2b98882625b5f19b0e57cf849f1d4d0144aba6f20607e9b2a058e&">
+<img width="200" height="200" align="left" src="https://cdn.discordapp.com/attachments/1120142996214661190/1257893996290773093/DALL_E_2024-05-24_14.53.17_-_pixel_art_of_aesthetic_grunge_boy_with_brown_and_curly_hair-removebg-preview.png?ex=66861093&is=6684bf13&hm=1ed35be26274d96bd65755fab09075f2c2f3316a0c63ecf66660bb1f14ee37ca&">
 
 ### OSint 🍩
 <hr></hr>
