@@ -63,7 +63,7 @@
 </a>
 <a href="https://jestjs.io/" target="_blank">
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="jest" width="25" height="25"/>
-</a><br>
+</a><br><br>
 <code>studying cognitive psych 🧠</code>
 <img align="right" src="https://komarev.com/ghpvc/?username=OSintt"/>
   
